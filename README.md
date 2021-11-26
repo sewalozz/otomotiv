@@ -1,2 +1,3 @@
 # otomotiv
 sınıf çalışmaları.
+yeni çalışmalar. vs...
