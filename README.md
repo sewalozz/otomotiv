@@ -1,0 +1,2 @@
+# otomotiv
+sınıf çalışmaları.
