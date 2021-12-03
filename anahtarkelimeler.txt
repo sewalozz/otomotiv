@@ -1,0 +1,15 @@
+if
+else 
+elif
+import 
+pass
+while
+break
+continue
+for
+return 
+global
+def
+as
+class
+self
